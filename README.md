@@ -1,6 +1,3 @@
-# Boostare 
-pagina readme per il mio profilo.
+# Ciao, Sono Boostare! ![Ghost Pixel](https://p7.hiclipart.com/preview/748/778/449/ghost-pixel-art-gif-image-cute-pixel.jpg) 
 
-![GitHub stars](https://img.shields.io/github/stars/tuo-username/Boostare?style=social) 
-![GitHub forks](https://img.shields.io/github/forks/tuo-username/Boostare?style=social)
-![GitHub issues](https://img.shields.io/github/issues/tuo-username/Boostare)
+
