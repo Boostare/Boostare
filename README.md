@@ -1,5 +1,11 @@
 # Ciao, sono Boostare!  <img src="https://raw.githubusercontent.com/Boostare/Readme/main/pizza.png" alt="pizza" height="32px">
 
+**Sto imparando** 🍂
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Discord API](https://img.shields.io/badge/Discord_API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+
 **Linguaggi & Tecnologie** 📖
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,6 +26,8 @@
 [![Discord](https://img.shields.io/badge/Discord-👾-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1390746822624153743)
 [![NameMC](https://img.shields.io/badge/NameMC-_Boostare-00ff00?style=for-the-badge&logo=namemc&logoColor=white)](https://namemc.com/profile/_Boostare)
 [![Telegram](https://img.shields.io/badge/Telegram-💬-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Boostaree)
+
+
 
 
 
