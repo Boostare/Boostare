@@ -1,6 +1,7 @@
 # Ciao, sono Boostare!  <img src="https://raw.githubusercontent.com/Boostare/Readme/main/pizza.png" alt="pizza" height="32px">
 
 **Sto imparando** 🍂
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Discord API](https://img.shields.io/badge/Discord_API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
