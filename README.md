@@ -15,6 +15,10 @@
 ![Question](https://img.shields.io/badge/-%3F-ff69b4?style=for-the-badge)
 ![Question](https://img.shields.io/badge/-%3F-ff69b4?style=for-the-badge)
 
+**Socials** 💻
+
+[![Discord](https://img.shields.io/badge/Discord-👾-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1390746822624153743)
+
 
 
 
